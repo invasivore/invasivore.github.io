@@ -1,2 +1,3 @@
 # invasivore.org relaunching soon!
-web page under construction
+We are currently learning to code as we migrate to Github hosting.
+Thanks for your patience! 
