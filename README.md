@@ -1,3 +1,3 @@
 # invasivore.org relaunching soon!
-# We are currently learning to code as we migrate to Github hosting.
-# Thanks for your patience! 
+<p> We are currently learning to code as we migrate to Github hosting.</p>
+<p> Thanks for your patience! </p>
